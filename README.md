@@ -1,2 +1,2 @@
 # Schedule
-Schedule forshop staff
+Schedule for shop staff
